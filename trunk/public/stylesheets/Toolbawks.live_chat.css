@@ -1,0 +1,7 @@
+#toolbawks_live_chat {
+  z-index: 100000;
+  position: absolute;
+  padding: 10px;
+  bottom: 4px;
+  right: 4px;
+}
